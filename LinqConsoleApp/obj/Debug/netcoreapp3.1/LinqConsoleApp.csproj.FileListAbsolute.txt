@@ -1,0 +1,10 @@
+/Users/admin/Desktop/Schools4/APBD/Zajęcia 9/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.deps.json
+/Users/admin/Desktop/Schools4/APBD/Zajęcia 9/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.runtimeconfig.json
+/Users/admin/Desktop/Schools4/APBD/Zajęcia 9/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.runtimeconfig.dev.json
+/Users/admin/Desktop/Schools4/APBD/Zajęcia 9/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.dll
+/Users/admin/Desktop/Schools4/APBD/Zajęcia 9/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.pdb
+/Users/admin/Desktop/Schools4/APBD/Zajęcia 9/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.csprojAssemblyReference.cache
+/Users/admin/Desktop/Schools4/APBD/Zajęcia 9/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Schools4/APBD/Zajęcia 9/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.AssemblyInfo.cs
+/Users/admin/Desktop/Schools4/APBD/Zajęcia 9/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.dll
+/Users/admin/Desktop/Schools4/APBD/Zajęcia 9/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.pdb
